@@ -59,7 +59,7 @@ Location-based web app that helps users explore destinations and travel routes a
 Academic project implementing machine learning algorithms from scratch in C.  
 - Built Linear & Softmax Regression, Logistic Regression, and KNN models  
 - Integrated GNUPLOT for performance visualization  
-**Focus:** Optimization, modularity, and reproducibility  
+**Focus:** Optimization, modularity, and reproducibility   
 
 ---
 
