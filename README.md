@@ -1,6 +1,7 @@
 <h1 align="center">Jainam Shah</h1>
 <h3 align="center">Full Stack Engineer | AI/LLM Applications | IIT Jodhpur</h3>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jainam-not-a-robot&color=0E75B6&style=flat" alt="GitHub Profile Views Counter" />
 </p>
@@ -18,66 +19,31 @@
 ---
 
 ## 👨‍💻 About Me
-Aspiring Software Engineer from **IIT Jodhpur** (B.Tech CSE, **CGPA: 8.85 / 10**) focused on turning complex ideas into scalable, intelligent web applications.
-
-- 🧠 Actively working on **LLM Applications** and **Autonomous Systems** to build the next generation of software tools.
-- 🛠️ Currently developing **PrepMate**, a private productivity tool focused on learning and preparation optimization.
-- 💡 Core focus on **optimization, modularity**, and delivering high-performance end-to-end solutions.
+Aspiring Software Engineer from **IIT Jodhpur** focused on turning complex ideas into scalable, intelligent web applications.
 
 ---
 
-## 🧰 Tech Stack & Toolkit
 
-A snapshot of the technologies I work with, focusing on versatility and performance:
+## 🧠 My Tech Stack
 
-### **Core Languages**
-`C` / `C++` | `Python` | `JavaScript` / `TypeScript` | `Java` | `SQL` | `Dart`
-
-### **Frameworks & Libraries**
-| Category | Key Technologies |
-| :--- | :--- |
-| **Frontend** | `React.js`, `Next.js` |
-| **Backend/APIs** | `Node.js`, `Express.js`, `FastAPI` |
-| **AI/Automation** | `CrewAI`, `Playwright` |
-| **Styling/Mobile** | `Tailwind CSS`, `Flutter` |
-
-### **Databases & Tools**
-`Git` | `Linux (Ubuntu CLI)` | `Docker` | `PostgreSQL` | `SQLite` | `REST APIs` | `Render` | `Vercel`
+### 🧩 **Core Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,cpp,dart,java " />
+</p>
 
 ---
 
-## ✨ Featured Projects
-
-### 🧠 **[IntelliBrowse](https://github.com/devlup-labs/Intelligent-Browser) - AI Autonomous Web Browser**
-An Al-driven browser that transforms natural-language queries into complete web tasks, enabling autonomous browsing and interaction.
-
-- **Agent Workflow:** Built an LLM-powered intent parser and used **CrewAI** for collaborative agent task execution.
-- **Interoperability:** Integrating **MCP (Model Context Protocol)** tools to enhance contextual awareness and extensibility between agents.
-- **Stack:** `FastAPI` (Backend), `PostgreSQL`, `React`, `Next.js`, `CrewAI`, `Playwright`, `WebSockets`, `Docker`
-
-### 🗺️ **[Travel Planner](https://github.com/Jainam-not-a-robot/Travel-Planner) - Location Explorer**
-A full-stack application for exploring destinations, attractions, and travel routes across India.
-
-- **Optimization:** Implemented caching and API throttling to achieve a **40% improvement in load speed** and minimize redundant network requests.
-- **Modern UI:** Features a responsive, map-based UI built with **Next.js App Router** and **Tailwind CSS**.
-- **Live Demo:** [travel-planner-web.vercel.app](https://travel-planner-web.vercel.app)
-
-### 📈 **[ML Algorithms in C](https://github.com/Jainam-not-a-robot/ICS_Major_Project) - Fundamental Implementation**
-Academic project implementing core Machine Learning algorithms from scratch in pure C for optimization and modular design.
-
-- **Algorithms:** Built and benchmarked **Linear Regression, Softmax Regression, Logistic Regression**, and **K-Nearest Neighbors**.
-- **Visualization:** Integrated **GNUPLOT** for 2D visualization of model performance and convergence trends.
-- **Focus:** Memory efficiency and modular design for reusable ML components.
+### ⚙️ **Frameworks & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi,flutter,playwright" />
+</p>
 
 ---
 
-## 🏆 Academic Excellence
-My dedication to Computer Science is reflected in strong academic performance:
-- **IIT Jodhpur:** B.Tech CSE (Current CGPA: **8.85 / 10**)
-- **JEE Advanced 2024:** AIR **2665**
-- **JEE Mains 2024:** AIR **471**
-
----
+### 🗄️ **Databases & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,sqlite,vercel,github" />
+</p>
 
 ## 📊 GitHub Insights
 
