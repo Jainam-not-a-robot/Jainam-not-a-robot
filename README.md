@@ -28,7 +28,7 @@ Aspiring Software Engineer from **IIT Jodhpur** focused on turning complex ideas
 
 ### 🧩 **Core Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,cpp,dart,java " />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,cpp,dart,java,fortran " />
 </p>
 
 ---
