@@ -45,22 +45,11 @@ Aspiring Software Engineer from **IIT Jodhpur** focused on turning complex ideas
   <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,sqlite,vercel,github" />
 </p>
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jainam-not-a-robot&show_icons=true&theme=nord&count_private=true" alt="Jainam's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainam-not-a-robot&layout=compact&theme=nord" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainam-not-a-robot&theme=nord" alt="GitHub Streak Stats"/>
-</p>
-
 ---
-## 🚀 Github 3D Contribution
+## 🚀 Github Insights
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-
+---
 ## 📞 Let's Connect!
 
 I'm always open to discussing tech, collaborations, or new opportunities!
