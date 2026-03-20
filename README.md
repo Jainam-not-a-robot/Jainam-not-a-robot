@@ -1,4 +1,6 @@
-<h1 align="center">Jainam Shah</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=443bad&height=180&section=header&text=Jainam%20Shah&fontColor=94ed80&fontSize=40" />
+</p>
 <h3 align="center">Full Stack Engineer | AI/LLM Applications | IIT Jodhpur</h3>
 
 
@@ -60,3 +62,4 @@ I'm always open to discussing tech, collaborations, or new opportunities!
   <a href="https://codeforces.com/profile/Jainam_29"><img src="https://img.shields.io/badge/Codeforces-445F9D?logo=codeforces&logoColor=white"></a>
   <a href="mailto:b24cs1071@iitj.ac.in"><img src="https://img.shields.io/badge/Email-b24cs1071%40iitj.ac.in-red"></a>
 </p>
+</div>
