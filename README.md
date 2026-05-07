@@ -1,12 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=443bad&height=180&section=header&text=Jainam%20Shah&fontColor=94ed80&fontSize=40" />
 </p>
-<h3 align="center">Full Stack Engineer | AI/LLM Applications | IIT Jodhpur</h3>
 
+<h3 align="center">
+Full Stack Engineer | Compiler Development | AI Systems | IIT Jodhpur
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jainam-not-a-robot&color=0E75B6&style=flat" alt="GitHub Profile Views Counter" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jainam-shah29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Jainam-not-a-robot"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
@@ -15,16 +18,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=22&center=true&vCenter=true&width=600&lines=Building+end-to-end+applications;Exploring+AI-driven+automation;Full+Stack+Development;Always+learning%2C+always+improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=22&center=true&vCenter=true&width=700&lines=Building+end-to-end+applications;Exploring+compiler+development+and+runtime+systems;Working+on+coarray+support+in+LFortran;AI-driven+automation+and+intelligent+systems;Always+learning%2C+always+building" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Aspiring Software Engineer from **IIT Jodhpur** focused on turning complex ideas into scalable, intelligent web applications.
 
----
+Sophomore at **IIT Jodhpur (CSE)** with interests in **AI systems, Web Development, and Compiler Development**.
 
+Currently contributing to **coarray support in LFortran** as part of **Google Summer of Code**, working on compiler passes, ASR transformations, runtime integration, and parallel execution using the PGAS model.
+
+I enjoy building across the stack — from intelligent applications and automation systems to low-level compiler and runtime infrastructure.
+
+- 🎓 CGPA: **8.44/10** (Till 4th Semester)
+- 🌱 Currently exploring: **Compiler internals, runtimes, and distributed systems**
+- ⚡ Interests: **Full Stack Development, AI Systems, Compilers, Open Source**
 
 ## 🧠 My Tech Stack
 
